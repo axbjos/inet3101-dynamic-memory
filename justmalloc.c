@@ -1,3 +1,5 @@
+#include <stdlib.h>
+
 int main() {
 
     int *array = (int *)malloc(2 * sizeof(int));
