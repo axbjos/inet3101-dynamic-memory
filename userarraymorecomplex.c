@@ -22,4 +22,6 @@ int main(int argc, char *argv[]) {
     printf("\n");
 
     free(array);
-    return 0
+    return 0;
+
+}
