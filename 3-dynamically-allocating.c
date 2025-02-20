@@ -1,8 +1,8 @@
-//In this example, when the user runs the program they have to specify how big they want the allocation to be.
-//The allocation is going to store integers
-//So you'd run it like this:
+// In this example, when the user runs the program they have to specify how big they want the allocation to be.
+// The allocation is going to store integers
+// So you'd run it like this:
 //   ./program-name 5
-//So it allocates space for 5 integers: 32-bits/4-bytes each.
+// Thusly it allocates space for 5 integers: 32-bits/4-bytes each.
 
 #include <stdio.h>
 #include <stdlib.h>

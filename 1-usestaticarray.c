@@ -47,7 +47,7 @@ int main() {
 WHAT TO DO:
 
 All you need to do here is just give this a try.  Create a Word Document and send me a screenshot of you running this code demonstrating 
-how by adding elements to one array, if we go out-of-bounds we could over write the othe array.
+how by adding elements to one array, if we go out-of-bounds, we could over write the othe array. 
 
 When compiled with GCC on a Mac, we can demonstrate how, given the code above, we could overwrite data in the other array
 
@@ -56,6 +56,8 @@ Make sure you understand why the code above is BAD.
 WINDOWS USERS: This will likely work different on your system.  Windows always seems to put empty arrays after a populated array.asm
 
 So intead: Use the two populated arrays.  Update the code and run it.  If what I just said here makes no sense please please pretty please reach out to me.
+
+If it is not working the way I show below, reach out to me.
 
 
 EXAMPLE ON A MAC:

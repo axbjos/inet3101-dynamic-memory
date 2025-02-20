@@ -1,7 +1,10 @@
 // nothing much here other than showing how to allocate memory using malloc
 // comparing it how it is done with an array.
 
+//printf is in this library
 #include <stdio.h>
+
+//the malloc function is in this library
 #include <stdlib.h>
 
 int main() {
@@ -30,7 +33,7 @@ int main() {
 
 /*
 
-NOTHING TO DO HERE - THIS WAS MOSTLY FOR DEMO IN CLASS
+NOTHING TO DO OR SUBMIT HERE - THIS WAS MOSTLY FOR DEMO IN CLASS
 
 When using malloc to allocate space, from the "machine's" perspective it really isn't all that 
 different than when declaring an array.  
