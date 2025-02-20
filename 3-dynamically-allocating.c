@@ -64,6 +64,10 @@ Research and come up with a solution.
 
 Use the guide and examples at W3SCHOOLS. It has a good example of using reallocate.
 
+Another good example is in file 7-managing-allocation-with-struct.case
+
+You don't need to write code like that example, but look at how they do it in the "addToList" function.
+
 Indeed you can see what CoPilot says (I would prefer you use CoPilot) to.
 
 But you must understand why the solution works. Don't copy/paste.

@@ -1,3 +1,6 @@
+// neat example of using a Struct as a way to manage an allocation of memory and track whats in it.
+// here the allocation managed by the struct keeps a list of integers, resizing when necessary
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -55,3 +58,13 @@ void addToList(struct list *myList, int item) {
   myList->data[myList->numItems] = item;
   myList->numItems++;
 }
+
+/*
+
+Just review this.  This is the example from W3SCHOOLS
+
+Nothing to submit.
+
+It might be helpful for Lab 2
+
+*/
