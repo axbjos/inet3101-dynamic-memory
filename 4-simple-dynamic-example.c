@@ -1,3 +1,10 @@
+//This code comes straight from the W3SCHOOLS examples
+//Nothing special here.  Just rather than using an Array
+//calloc is used to allocate memory
+//12 items in the allocation, each the "sizeof" integers
+//so 48 bytes will be allocated
+//each 4 byte item accessible via the INDEX: 0,1,2...11
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -24,3 +31,11 @@ int main() {
   return 0;
 
 }
+
+/*
+
+WHAT TO DO:
+
+Just compile and run this code.  Add a screenshot to your doc showing you compiles and ran it.
+
+*/
