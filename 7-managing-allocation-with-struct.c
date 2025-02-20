@@ -1,5 +1,8 @@
 // neat example of using a Struct as a way to manage an allocation of memory and track whats in it.
 // here the allocation managed by the struct keeps a list of integers, resizing when necessary
+// notice how they also implemented a separate function to add an item to the list
+// what might a function that deletes an item from the list look like?
+// what might a function that inserts an item into the list look like?
 
 #include <stdio.h>
 #include <stdlib.h>
